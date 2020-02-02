@@ -1,0 +1,114 @@
+
+
+#p1{
+    
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 370px;
+    float: left;
+       
+}
+#p2{
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 370px;
+    float: left;
+}
+#p3{
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 370px;
+    float: left;
+
+}
+#p4{
+    font-size: 30px;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    float: left;
+}
+#classification{
+    font-size: 30px;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    float: left;
+}
+h1{
+    background: linear-gradient(green,red,blue);
+    color:black;
+    text-shadow:10px 8px 7px grey;
+    border-radius: 5px;
+    border-style: dotted;
+    height: 60px;
+    text-align: center;
+    font-size: 60px;
+
+}
+h4{
+    margin-bottom: 10px;
+
+}
+body{
+background-image: url(red.jpg);
+color: white;
+font-size: 30px;
+   /* width: 70%;  */
+}
+#links {
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-decoration: none;
+    
+
+}
+a{
+    text-decoration: none;
+}
+a:link{
+ color: red;   
+}
+a:visited{
+    color: green;
+}
+a:hover{
+color: chocolate;
+background-color: indigo;
+}
+a:active{
+    color: blue;
+}
+img{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#sp-p {
+    color: yellow;
+}
+
+@media screen 500px (){
+
+}
+#p5{
+    font-size: 30px;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
